@@ -12,7 +12,9 @@
 - typescript
 - react
 - react-dom
-- react-router-dom
-- react-redux
 - @reduxjs/toolkit
+- react-redux
+- react-router-dom
+
+
 
