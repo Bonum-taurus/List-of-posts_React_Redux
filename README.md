@@ -3,7 +3,16 @@
 
 # Technologies used
 - HTML
-- CSS
-- Sass (SCSS)
-- BEM
-- JavaScript
+- css
+- scss
+- bulma
+- classnames
+- java script
+- JSX
+- typescript
+- react
+- react-dom
+- react-router-dom
+- react-redux
+- @reduxjs/toolkit
+
