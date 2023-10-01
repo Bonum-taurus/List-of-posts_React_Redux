@@ -1,4 +1,4 @@
-# React TypeScript Starter Pack
+# List of posts
 
 To use this template click `Use this template`
 
